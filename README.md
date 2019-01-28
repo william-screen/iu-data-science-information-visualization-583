@@ -2,7 +2,7 @@
 
 Bill Screen | Indiana University | M.S. Data Science
 
-#### PROJECTS PORFOLIO: 
+#### PROJECT PORFOLIO: 
 
 **1. Network Visualization Diagram:** Illustration based on transformations in Florentine elite network structures over two centuries.
 
